@@ -1,0 +1,58 @@
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\explorer.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\SimpleShading.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\Box2.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\Sphere.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Lab09.exe
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Lab09.pdb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Game Engine.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\Game Engine.pdb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\obj\x86\Debug\Lab09.csprojResolveAssemblyReference.cache
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\obj\x86\Debug\Lab09.exe
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab09\obj\x86\Debug\Lab09.pdb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\obj\x86\Debug\Lab09.exe
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\obj\x86\Debug\Lab09.pdb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\explorer.xnb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\SimpleShading.xnb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\Box2.xnb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Content\Sphere.xnb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Lab09.exe
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Lab09.pdb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Game Engine.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\Game Engine.pdb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab09\obj\x86\Debug\Lab09.csprojResolveAssemblyReference.cache

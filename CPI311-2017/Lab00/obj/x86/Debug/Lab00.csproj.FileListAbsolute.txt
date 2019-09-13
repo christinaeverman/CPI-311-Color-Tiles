@@ -1,0 +1,34 @@
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\Lab00.exe
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\Lab00.pdb
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\obj\x86\Debug\Lab00.csprojResolveAssemblyReference.cache
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\obj\x86\Debug\Lab00.exe
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Lab00\obj\x86\Debug\Lab00.pdb
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Build\Lab00.exe
+c:\users\ceverman\documents\visual studio 2017\Projects\CPI311-2017\Build\Lab00.pdb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Content\background.xnb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab00\obj\x86\Debug\Lab00.exe
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab00\obj\x86\Debug\Lab00.pdb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Build\Content\background.xnb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Build\Lab00.exe
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Build\Lab00.pdb
+C:\Users\dolph\source\repos\CPI311-2017\CPI311-2017\Lab00\obj\x86\Debug\Lab00.csprojResolveAssemblyReference.cache
+C:\Users\dolph\source\repos\CPI311-2017\Lab00\obj\x86\Debug\Lab00.exe
+C:\Users\dolph\source\repos\CPI311-2017\Lab00\obj\x86\Debug\Lab00.pdb

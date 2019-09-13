@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Christina/source/repos/CPI311-2017/Assignment01/Content/explorer.png</File>
+    <File>C:/Users/Christina/source/repos/CPI311-2017/Assignment01/Content/meterBackground.png</File>
+    <File>C:/Users/Christina/source/repos/CPI311-2017/Assignment01/Content/healthbar.png</File>
+    <File>C:/Users/Christina/source/repos/CPI311-2017/Assignment01/Content/distancebar.png</File>
+    <File>C:/Users/Christina/source/repos/CPI311-2017/Assignment01/Content/clock.png</File>
+    <File>C:/Users/Christina/source/repos/CPI311-2017/Assignment01/Content/font.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

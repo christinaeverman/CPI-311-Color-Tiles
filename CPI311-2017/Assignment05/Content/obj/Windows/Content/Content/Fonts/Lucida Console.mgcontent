@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Fonts/Lucida Console.spritefont</SourceFile>
+  <SourceTime>2017-12-04T00:32:14.7857464-07:00</SourceTime>
+  <DestFile>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/bin/Windows/Content/Content/Fonts/Lucida Console.xnb</DestFile>
+  <DestTime>2017-12-04T15:26:48.6704634-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

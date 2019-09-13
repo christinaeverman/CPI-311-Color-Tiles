@@ -1,0 +1,29 @@
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab07\obj\x86\Debug\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab07\obj\x86\Debug\Lab06.exe
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Lab07\obj\x86\Debug\Lab06.pdb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Content\explorer.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Content\Font.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Content\Sphere.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Lab06.exe
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Lab06.pdb
+C:\Users\Christina\source\repos\CPI311-2017\Build\Content\explorer.xnb
+C:\Users\Christina\source\repos\CPI311-2017\Build\Content\Font.xnb
+C:\Users\Christina\source\repos\CPI311-2017\Build\Content\Sphere.xnb
+C:\Users\Christina\source\repos\CPI311-2017\Build\Lab06.exe
+C:\Users\Christina\source\repos\CPI311-2017\Build\Lab06.pdb
+C:\Users\Christina\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\Christina\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\Christina\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab06.exe
+C:\Users\Christina\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab06.pdb
+C:\Users\Christina\source\repos\CPI311-2017\Build\Content\SimpleShading.xnb
+C:\Users\ceverman\Documents\Visual Studio 2017\Projects\CPI311-2017\Build\Content\SimpleShading.xnb
+C:\Users\dolph\source\repos\CPI311-2017\Build\Content\explorer.xnb
+C:\Users\dolph\source\repos\CPI311-2017\Build\Content\SimpleShading.xnb
+C:\Users\dolph\source\repos\CPI311-2017\Build\Content\Font.xnb
+C:\Users\dolph\source\repos\CPI311-2017\Build\Content\Sphere.xnb
+C:\Users\dolph\source\repos\CPI311-2017\Build\Lab06.exe
+C:\Users\dolph\source\repos\CPI311-2017\Build\Lab06.pdb
+C:\Users\dolph\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\dolph\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\dolph\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab06.exe
+C:\Users\dolph\source\repos\CPI311-2017\Lab07\obj\x86\Debug\Lab06.pdb

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Audio/Waves/tx0_fire1.wav</SourceFile>
+  <SourceTime>2017-12-04T00:32:14.6834745-07:00</SourceTime>
+  <DestFile>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/bin/Windows/Content/Content/Audio/Waves/tx0_fire1.xnb</DestFile>
+  <DestTime>2017-12-04T15:26:48.1244532-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

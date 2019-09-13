@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Gun.wav</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Audio/Waves/engine_2.wav</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Audio/Waves/explosion2.wav</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Audio/Waves/explosion3.wav</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Audio/Waves/hyperspace_activate.wav</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Audio/Waves/tx0_fire1.wav</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Fonts/Lucida Console.spritefont</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/asteroid4.fbm/asteroid1.tga</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/asteroid.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/asteroid1.x</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/asteroid2.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/asteroid3.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/asteroid4.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/bullet.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/p1_wedge.fbx</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/pea_proj.x</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Models/Yasteroid2.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/asteroid1.tga</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/B1_stars.tga</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/Congrat.png</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/fire.png</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/fire2.png</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/GameOver.png</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/MenuPage.png</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/pea_proj.tga</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/Square.png</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/Textures/wedge_p1_diff_v1.tga</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Content/ParticleShader-complete.fx</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Font.spritefont</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Content/Sphere.FBX</File>
+    <File>C:/Users/dolph/source/repos/CPI311-2017/Assignment05/Content/Square.png</File>
+  </SourceFiles>
+</SourceFileCollection>
